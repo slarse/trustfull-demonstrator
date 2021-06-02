@@ -1,2 +1,3 @@
-# trustfull-demonstrator
-Code for the demonstrator of the Trustfull project
+# Media branch
+
+Stores images to be used by the main README, avoiding polluting the main branch's tree.
